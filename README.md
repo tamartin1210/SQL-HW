@@ -1,2 +1,2 @@
-# Emmployee Database SQL
+# Employee Database SQL
 
